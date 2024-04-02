@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuanManuelPaezCarrillo
+- 👋 Hi, I’m @JuanPaez
 - 👀 I’m interested in programing, software development, languages.
 - 🌱 I’m currently learning HTML5, CSS, JavaScript
 - 💞️ I’m looking to collaborate on companies
